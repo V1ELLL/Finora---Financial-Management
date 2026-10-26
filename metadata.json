@@ -1,0 +1,6 @@
+{
+  "name": "Finora - Catat Keuangan Pribadi",
+  "description": "Aplikasi pencatatan keuangan pribadi 100% offline dengan manajemen dompet, anggaran, target tabungan, visualisasi statistik, dan proteksi PIN lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
